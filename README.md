@@ -38,6 +38,7 @@ Liyang Liu and Jiaxin Liu
 + [NeHe OpenGL programming course](http://nehe.gamedev.net/tutorial/lessons_01__05/22004/)
 + [A walkthrough of computer graphics](http://www.pling.org.uk/cs/cgv.html)
 + [Basic theory of computer graphics](http://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.html)
++ [Real-time rendering](http://www.realtimerendering.com/)
 
 ## Course Project
 
