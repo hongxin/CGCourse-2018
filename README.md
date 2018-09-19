@@ -13,7 +13,7 @@ Liyang Liu and Jiaxin Liu
 
 ## Classroom & Time
 Room 104, Cao Guang Biao Building (West), Yu-Quan Campus, Zhejiang University
-09:50AM - 11:30AM, Wednesday
+09:50AM - 11:25AM, Wednesday
 06:30PM - 08:05PM, Saturday (experiments, every one week)
 
 ## Schedule
