@@ -21,17 +21,17 @@ Room 104, Cao Guang Biao Building (West), Yu-Quan Campus, Zhejiang University
 | ---------------- |:------------:|:---------------------------------------------------------:|:------------------:|
 |  Introduction    |  2018.09.19  |  [Overview](pdf/00_overview.pdf)                          |   Chapter 1        |
 |                  |              |  [What is computer graphics](pdf/01_introduction.pdf)     |                    |
-|     --           |    --        |         --                                                |   --               |
+|       --         |    --        |         --                                                |   --               |
 |  2D Primitive    |  2018.09.26  |  [2D Primitive](pdf/02_primitive.pdf)                     |   Chapter 2        |
 
 
 ## Homework
 
-[2018-09-26] Bresenham algorithm for drawing circle (ellipse) (deadline: 2018-10-08)
-[2018-10-19] 3D Rotation: build the solar system with OpenGL with tracing effects, real OpenGL implementation preferred. homework02.pdf (deadline: 2018-11-xx)
-[2018-11-02] Seamless stitching 4 iPhone (and/or Android Phone) screen together (deadline: 2018-11-23)
-[2018-12-30] Write a report on how to design Ferrari Cars
-[2019-01-20] Model a 3D scene about your desktop, and render it in POVRAY
++ [2018-09-26] Bresenham algorithm for drawing circle (ellipse) (deadline: 2018-10-08)
++ [2018-10-19] 3D Rotation: build the solar system with OpenGL with tracing effects, real OpenGL implementation preferred. homework02.pdf (deadline: 2018-11-xx)
++ [2018-11-02] Seamless stitching 4 iPhone (and/or Android Phone) screen together (deadline: 2018-11-23)
++ [2018-12-30] Write a report on how to design Ferrari Cars
++ [2019-01-20] Model a 3D scene about your desktop, and render it in POVRAY
 
 ## Reference Links
 
