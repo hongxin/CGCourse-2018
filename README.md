@@ -12,9 +12,9 @@ Dr. Hongxin Zhang http://www.cad.zju.edu.cn/home/zhx/
 Liyang Liu and Jiaxin Liu
 
 ## Classroom & Time
-Room 104, Cao Guang Biao Building (West), Yu-Quan Campus, Zhejiang University
-09:50AM - 11:25AM, Wednesday
-06:30PM - 08:05PM, Saturday (experiments, every even week)
++ Room 104, Cao Guang Biao Building (West), Yu-Quan Campus, Zhejiang University
++ 09:50AM - 11:25AM, Wednesday
++ 06:30PM - 08:05PM, Saturday (experiments, every even week)
 
 ## Schedule
 |   Topic          |     Date     |                  Slides                                   |   Course note      |
@@ -35,15 +35,15 @@ Room 104, Cao Guang Biao Building (West), Yu-Quan Campus, Zhejiang University
 
 ## Reference Links
 
-- [NeHe OpenGL programming course](http://nehe.gamedev.net/tutorial/lessons_01__05/22004/)
-- [A walkthrough of computer graphics](http://www.pling.org.uk/cs/cgv.html)
-- [Basic theory of computer graphics](http://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.html)
++ [NeHe OpenGL programming course](http://nehe.gamedev.net/tutorial/lessons_01__05/22004/)
++ [A walkthrough of computer graphics](http://www.pling.org.uk/cs/cgv.html)
++ [Basic theory of computer graphics](http://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.html)
 
 ## Course Project
 
-Deadline: 2019-01-20
-Demo day: 2019-01-13
-Requirement: 计算机图形学课程大项目要求
++ Deadline: 2019-01-20
++ Demo day: 2019-01-13
++ Requirement: 计算机图形学课程大项目要求
 
 ## Previous courseware
 
