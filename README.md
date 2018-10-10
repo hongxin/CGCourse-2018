@@ -23,7 +23,7 @@ Liyang Liu and Jiaxin Liu
 |                  |              |  [What is computer graphics](pdf/01_introduction.pdf)     |                    |
 |       --         |    --        |         --                                                |   --               |
 |  2D Primitive    |  2018.09.26  |  [2D Primitive](pdf/02_primitive.pdf)                     |   Chapter 2        |
-
+|  OpenGL          |  2018.10.10  |  [OpenGL introduction](pdf/03_opengl.pdf)                 |   Chapter 3        |
 
 ## Homework
 
