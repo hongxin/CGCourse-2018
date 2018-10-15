@@ -17,14 +17,14 @@ Liyang Liu and Jiaxin Liu
 + 06:30PM - 08:05PM, Saturday (experiments, every even week)
 
 ## Schedule
-|   Topic          |     Date     |                  Slides                                   |   Course note      |
-| ---------------- |:------------:|:---------------------------------------------------------:|:------------------:|
-|  Introduction    |  2018.09.19  |  [Overview](pdf/00_overview.pdf)                          |   Chapter 1        |
-|                  |              |  [What is computer graphics](pdf/01_introduction.pdf)     |                    |
-|       --         |    --        |         --                                                |   --               |
-|  2D Primitive    |  2018.09.26  |  [2D Primitive](pdf/02_primitive.pdf)                     |   Chapter 2        |
-|  OpenGL          |  2018.10.10  |  [OpenGL introduction](pdf/03_opengl.pdf)                 |   Chapter 3        |
-|                  |              |  [Simple Glut-OpenGL Demos](src/ogl)                      |   Chapter 3        |
+|  No. |   Topic          |     Date     |                  Slides                                   |   Course note      |
+|:----:| ---------------- |:------------:|:---------------------------------------------------------:|:------------------:|
+|  01  |  Introduction    |  2018.09.19  |  [Overview](pdf/00_overview.pdf)                          |   Chapter 1        |
+|      |                  |              |  [What is computer graphics](pdf/01_introduction.pdf)     |                    |
+|      |       --         |    --        |         --                                                |   --               |
+|  02  |  2D Primitive    |  2018.09.26  |  [2D Primitive](pdf/02_primitive.pdf)                     |   Chapter 2        |
+|  03  |  OpenGL          |  2018.10.10  |  [OpenGL introduction](pdf/03_opengl.pdf)                 |   Chapter 3        |
+|      |                  |              |  [Simple Glut-OpenGL Demos](src/ogl)                      |   Chapter 3        |
 
 ## Homework
 
