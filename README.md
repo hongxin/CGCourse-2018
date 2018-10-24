@@ -27,6 +27,7 @@ Liyang Liu and Jiaxin Liu
 |      |                  |              |  [Simple Glut-OpenGL Demos](src/ogl)                      |                    |
 |  04  |  Attributes      |  2018.10.17  |  [OpenGL and Scanline Algorithms](pdf/04_attribute.pdf)   |   Chapter 4        |
 |      |                  |              |  [A scanline algorithm](https://www.techfak.uni-bielefeld.de/ags/wbski/lehre/digiSA/WS0607/3DVRCG/Vorlesung/13.RT3DCGVR-vertex-2-fragment.pdf)                      |                    |
+|  05  |  Transform (I)   |  2018.10.24  |  [Triangles and transforms](pdf/05_transform_1.pdf)       |   Chapter 5        |
 
 ## Homework
 
