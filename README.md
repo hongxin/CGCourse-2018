@@ -28,12 +28,13 @@ Liyang Liu and Jiaxin Liu
 |  04  |  Attributes      |  2018.10.17  |  [OpenGL and Scanline Algorithms](pdf/04_attribute.pdf)   |   Chapter 4        |
 |      |                  |              |  [A scanline algorithm](https://www.techfak.uni-bielefeld.de/ags/wbski/lehre/digiSA/WS0607/3DVRCG/Vorlesung/13.RT3DCGVR-vertex-2-fragment.pdf)                      |                    |
 |  05  |  Transform (I)   |  2018.10.24  |  [Triangles and transforms](pdf/05_transform_1.pdf)       |   Chapter 5        |
+|  06  |  Transform (II)   |  2018.10.30  |  [Triangles and transforms](pdf/06_transform_2.pdf)       |   Chapter 6        |
 
 ## Homework
 
 + [2018-09-26] Bresenham algorithm for drawing circle (ellipse) (deadline: 2018-10-08)
-+ [2018-10-19] 3D Rotation: build the solar system with OpenGL with tracing effects, real OpenGL implementation preferred. homework02.pdf (deadline: 2018-11-xx)
-+ [2018-11-02] Seamless stitching 4 iPhone (and/or Android Phone) screen together (deadline: 2018-11-23)
++ [2018-10-30] 3D Rotation: build the solar system with OpenGL with tracing effects, real OpenGL implementation preferred. homework02.pdf (deadline: 2018-11-14)
++ [2018-11-07] Seamless stitching 4 iPhone (and/or Android Phone) screen together (deadline: 2018-11-28)
 + [2018-12-30] Write a report on how to design Ferrari Cars
 + [2019-01-20] Model a 3D scene about your desktop, and render it in POVRAY
 
