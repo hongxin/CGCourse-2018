@@ -1,4 +1,4 @@
-# Computer Graphics 2018
+﻿# Computer Graphics 2018
 
 ## Description
 Image input and output devices such as cameras and displays, graphics hardware and software, input technologies and interactive techniques, typography and page layout, light and color representations, exposure and tone reproduction, image composition and imaging models, digital signal processing, sampling, aliasing and antialiasing, compression, two- and three-dimensional geometry and transformations, modeling techniques including curves and surfaces, reflection models and illumination algorithms, and basic methods of animation. Programming assignments are using C++, OpenGL, Java Script and WebGL (optional).
@@ -9,7 +9,7 @@ The course is open to undergraduate students of College of Computer Science, Zhe
 Dr. Hongxin Zhang http://www.cad.zju.edu.cn/home/zhx/
 
 ## TA
-Liyang Liu and Jiaxin Liu
+Liyan Liu and Jiaxin Liu
 
 ## Classroom & Time
 + Room 104, Cao Guang Biao Building (West), Yu-Quan Campus, Zhejiang University
