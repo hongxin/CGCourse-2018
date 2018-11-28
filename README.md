@@ -34,6 +34,8 @@ Liyan Liu and Jiaxin Liu
 |      |       --         |    --        |         --                                                |   --               |
 |  08  | HLHSR            |  2018.11.21  |  [BC, z-buffer and BSP](pdf/08_hidden_surface_elimination.pdf) |   Chapter 8        |
 |      |       --         |    --        |         --                                                |   --               |
+|  09  | Curves           |  2018.11.28  |  [Bezier curves](pdf/09_curves.pdf)                       |   Chapter 9        |
+
 
 ## Homework
 
