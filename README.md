@@ -45,7 +45,7 @@ Liyan Liu and Jiaxin Liu
 + [2018-09-26] Bresenham algorithm for drawing circle (ellipse) [PDF](pdf/homework01.pdf) (deadline: 2018-10-08)
 + [2018-10-31] 3D Rotation: build the solar system with OpenGL with tracing effects, real OpenGL implementation preferred [PDF](pdf/homework02.pdf) (deadline: 2018-11-14)
 + [2018-11-07] Seamless stitching 4 iPhone (and/or Android Phone) screen together  [PDF](pdf/homework03.pdf) (deadline: 2018-12-01)
-+ [2018-12-30] Draw a circle by using Cubic Rational Bezier Curves (deadline: 2018-12-26)
++ [2018-12-12] Draw a circle by using Cubic Rational Bezier Curves [PDF](pdf/homework04.pdf) (deadline: 2018-12-26)
 + [2019-01-20] Model a 3D scene about your desktop, and render it in POVRAY
 
 ## Reference Links
