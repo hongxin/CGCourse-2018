@@ -35,14 +35,17 @@ Liyan Liu and Jiaxin Liu
 |  08  | HLHSR            |  2018.11.21  |  [BC, z-buffer and BSP](pdf/08_hidden_surface_elimination.pdf) |   Chapter 8        |
 |      |       --         |    --        |         --                                                |   --               |
 |  09  | Curves           |  2018.11.28  |  [Bezier curves](pdf/09_curves.pdf)                       |   Chapter 9        |
-
+|  10  | Surfaces         |  2018.12.05  |  [Spline surfaces](pdf/10_surfaces.pdf)                   |   Chapter 10       |
+|  11  | Complex Objects  |  2018.12.12  |  [Complex 3D](pdf/11_complex_3d.pdf)                      |   Chapter 11       |
+|      |       --         |    --        |         --                                                |   --               |
+|  12  | Illumination     |  2018.12.19  |  [Shading](pdf/12_illumination.pdf)                       |   Chapter 12       |
 
 ## Homework
 
 + [2018-09-26] Bresenham algorithm for drawing circle (ellipse) [PDF](pdf/homework01.pdf) (deadline: 2018-10-08)
 + [2018-10-31] 3D Rotation: build the solar system with OpenGL with tracing effects, real OpenGL implementation preferred [PDF](pdf/homework02.pdf) (deadline: 2018-11-14)
 + [2018-11-07] Seamless stitching 4 iPhone (and/or Android Phone) screen together  [PDF](pdf/homework03.pdf) (deadline: 2018-12-01)
-+ [2018-12-30] Write a report on how to design Ferrari Cars
++ [2018-12-30] Draw a circle by using Cubic Rational Bezier Curves (deadline: 2018-12-26)
 + [2019-01-20] Model a 3D scene about your desktop, and render it in POVRAY
 
 ## Reference Links
